@@ -1,0 +1,3 @@
+J:/CodeWars/Kata/cmake-build-debug/CMakeFiles/Kata.dir
+J:/CodeWars/Kata/cmake-build-debug/CMakeFiles/edit_cache.dir
+J:/CodeWars/Kata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
