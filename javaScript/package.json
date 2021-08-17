@@ -1,0 +1,27 @@
+{
+  "name": "codewars-kata-solution",
+  "version": "1.0.0",
+  "description": "Solution codewars kata",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test-unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyntaxErrorLineNULL/CodeWarsKata.git"
+  },
+  "keywords": [
+    "C++",
+    "JavaScript",
+    "CodeWars"
+  ],
+  "author": "SyntaxErrorLineNULL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SyntaxErrorLineNULL/CodeWarsKata/issues"
+  },
+  "homepage": "https://github.com/SyntaxErrorLineNULL/CodeWarsKata#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
